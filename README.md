@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there! I am Iris 👋
 
-<!--
-**irispapak/irispapak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About me 
+- 🔭 I’m currently working on model simulations with ICON-NWP
+- 🌱 I’m currently writing my doctoral thesis
+- 📫 How to reach me: i.presvelou@uni-leipzig.de
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- **Languages**: Python, Fortran, C
+- **Tools**:  Git, Linux, HPC, Slurm, Emacs
+
+## GitHub Stats
+
+![Irispapak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irispapak&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irispapak&layout=compact&theme=radical)
+---
+
+⭐️ From [irispapak](https://github.com/irispapak)
