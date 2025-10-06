@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 ## About me 
-- 🔭 I’m currently working on model simulations with ICON-NWP
-- 🌱 I’m currently writing my doctoral thesis
+- 🔭 I have experience with model simulations with the ICON numerical prediction model and large-scale meteorological data analysis.
+- 🌱 I have just obtained my PhD diploma from Leipzig University.
 - 📫 How to reach me: i.presvelou@uni-leipzig.de
 - 😄 Pronouns: she/her
 
