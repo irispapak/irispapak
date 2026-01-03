@@ -2,16 +2,18 @@
 
 Welcome to my GitHub profile!
 
-## About me 
-- 🔭 I have experience with model simulations with the ICON numerical prediction model and large-scale meteorological data analysis.
+## About me
 - 🌱 I have just obtained my PhD diploma from Leipzig University.
+- I deeply about climate change topics and sustainability.
+- 🔭 I have extensive experience with numerical model simulations with the ICON-NWP model and large-scale meteorological data analysis with Python.
 - 📫 How to reach me: i.presvelou@uni-leipzig.de
 - 😄 Pronouns: she/her
 
 ## My Skills
 
-- **Languages**: Python, Fortran, C
-- **Tools**:  Git, Linux, HPC, Slurm, Emacs
+- **Languages**: Python, Fortran, C, Bash, Markdown
+- **Data Science**: Xarray, Pandas, NumPy, SciPy, Dask, Matplotlib, Cartopy
+- **Tools**:  Git, Linux/UNIX, HPC, Slurm, Emacs, Jupyter
 
 ## Top Languages
 
