@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About me
 - 🎓 I have just obtained my PhD diploma from Leipzig University.
-- 🌱 I deeply about climate change topics and sustainability.
+- 🌱 I am dedicated to climate action and sustainability.
 - 🔭 I have extensive experience with numerical model simulations with the ICON-NWP model and large-scale meteorological data analysis with Python.
 - 📫 How to reach me: i.presvelou@uni-leipzig.de
 - 😄 Pronouns: she/her
