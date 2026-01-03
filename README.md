@@ -15,9 +15,5 @@ Welcome to my GitHub profile!
 - **Data Science**: Xarray, Pandas, NumPy, SciPy, Dask, Matplotlib, Cartopy
 - **Tools**:  Git, Linux/UNIX, HPC, Slurm, Emacs, Jupyter
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irispapak&layout=compact&theme=radical)
----
 
 ⭐️ From [irispapak](https://github.com/irispapak)
