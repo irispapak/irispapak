@@ -1,19 +1,34 @@
-## Hi there! I am Iris 👋
 
+# Hi there! I am Iris 👋
+---
 Welcome to my GitHub profile!
 
-## About me
-- 🎓 I have just obtained my PhD diploma from Leipzig University.
-- 🌱 I am dedicated to climate action and sustainability.
-- 🔭 I have extensive experience with numerical model simulations with the ICON-NWP model and large-scale meteorological data analysis with Python.
-- 📫 How to reach me: i.presvelou@uni-leipzig.de
-- 😄 Pronouns: she/her
+![ICON](https://img.shields.io/badge/Model-ICON-blue?style=flat-square) 
+![Fortran](https://img.shields.io/badge/Language-Fortran-purple?style=flat-square) 
+![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square) 
+![Linux](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux)
 
-## My Skills
+### Atmospheric Scientist | ICON Modeller | Scientific Data Architect ###
 
-- **Languages**: Python, Fortran, C, Bash, Markdown
-- **Data Science**: Xarray, Pandas, NumPy, SciPy, Dask, Matplotlib, Cartopy
-- **Tools**:  Git, Linux/UNIX, HPC, Slurm, Emacs, Jupyter
+I specialize in the intersection of **Atmospheric Physics** and **High-Performance Computing**. I am an expert in the **ICON source code**, with deep experience in running large-scale **numerical modelling** simulations, implementing new physical parameterizations, and developing core model components.
 
+## 🛠️ The Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Fortran`, `Python`, `Bash / Shell` |
+| **Tools & Environment** | `Linux`, `Emacs`, `Jupyter`, `Markdown` |
+| **Earth Data Stack** | `Xarray`, `Dask`, `NetCDF4`, `HDF5`, `Zarr`, `GRIB`, `NumPy`, `SciPy`,`Pandas` |
+| **Parallel & HPC** | `MPI`, `OpenMP`, `SLURM` |
+| **Analysis & Viz** | `Cartopy`, `HoloViz (Datashader/Geoviews)`, `Matplotlib` |
+| **Reliability** | `Git`, `Testing` |
+---
+## 🔬 Specialist: Model Evaluation & Observations
+**Bridging the gap between ICON-NWP Simulations and Observations.**
+I focus on the synthesis of **active remote sensing**, **in situ data**, and **numerical modelling** to improve atmospheric predictability and process understanding.
+- **Synergistic Observations**: Integration of **DARDAR-Nice satellite retrievals** and **aircraft in situ observations** (e.g., from the **AFLUX campaign**).
+- **Model Validation**: Evaluating **ICON-NWP simulations** against high-resolution active sensors to validate sub-grid scale microphysics and boundary layer processes.
+---
+## Contact
+- i.presvelou@uni-leipzig.de
+- [LinkedIn](https://www.linkedin.com/in/irispapak/) | [Google Scholar](https://scholar.google.com/citations?hl=el&user=XFZsJIsAAAAJ&view_op=list_works&gmla=APjjwuYcqXeVhaiXkggAQNxEiJydgDldaSOmnrtf1G57DXXeaGyBkK697mwuiPitpcAopKfSN2LI_3_AiA4lQZy-c8fnXnRfCbwFhMFVGW8FBjhRXSl9uKsksQ) | [Personal Website](tbd)
 
-⭐️ From [irispapak](https://github.com/irispapak)
