@@ -1,6 +1,6 @@
 
 # Hi there! I am Iris 👋
----
+
 Welcome to my GitHub profile!
 
 ![ICON](https://img.shields.io/badge/Model-ICON-blue?style=flat-square) 
@@ -21,14 +21,16 @@ I specialize in the intersection of **Atmospheric Physics** and **High-Performan
 | **Parallel & HPC** | `MPI`, `OpenMP`, `SLURM` |
 | **Analysis & Viz** | `Cartopy`, `HoloViz (Datashader/Geoviews)`, `Matplotlib` |
 | **Reliability** | `Git`, `Testing` |
----
-## 🔬 Specialist: Model Evaluation & Observations
+
+## 🔬 Research Focus
 **Bridging the gap between ICON-NWP Simulations and Observations.**
 I focus on the synthesis of **active remote sensing**, **in situ data**, and **numerical modelling** to improve atmospheric predictability and process understanding.
 - **Synergistic Observations**: Integration of **DARDAR-Nice satellite retrievals** and **aircraft in situ observations** (e.g., from the **AFLUX campaign**).
 - **Model Validation**: Evaluating **ICON-NWP simulations** against high-resolution active sensors to validate sub-grid scale microphysics and boundary layer processes.
----
-## Contact
-- i.presvelou@uni-leipzig.de
-- [LinkedIn](https://www.linkedin.com/in/irispapak/) | [Google Scholar](https://scholar.google.com/citations?hl=el&user=XFZsJIsAAAAJ&view_op=list_works&gmla=APjjwuYcqXeVhaiXkggAQNxEiJydgDldaSOmnrtf1G57DXXeaGyBkK697mwuiPitpcAopKfSN2LI_3_AiA4lQZy-c8fnXnRfCbwFhMFVGW8FBjhRXSl9uKsksQ) | [Personal Website](tbd)
+  
+## 📬 Connect with Me
+- **LinkedIn**:  [www.linkedin.com/in/irispapak/](https://www.linkedin.com/in/irispapak/) 
+- **Email**: [i.presvelou@uni-leipzig.de](mailto:i.presvelou@uni-leipzig.de) 
+- **Google Scholar**: [Publications](https://scholar.google.com/citations?hl=el&user=XFZsJIsAAAAJ&view_op=list_works&gmla=APjjwuYcqXeVhaiXkggAQNxEiJydgDldaSOmnrtf1G57DXXeaGyBkK697mwuiPitpcAopKfSN2LI_3_AiA4lQZy-c8fnXnRfCbwFhMFVGW8FBjhRXSl9uKsksQ)
+
 
